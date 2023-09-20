@@ -1,4 +1,4 @@
-## <Niko Palola web tehtävä>
+## Niko Palola web tehtävä
 
 ### <Italics and Bold>
 
