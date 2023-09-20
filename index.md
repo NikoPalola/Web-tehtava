@@ -25,7 +25,7 @@ Here's some words about the book _One Hundred Years..._.
 
 ### Linkit
 
-[Search for it.](www.google.com)
+[Search for it.](https://www.google.com/)
 
 [You're **really, really** going to want to see this.](www.dailykitten.com)
 
